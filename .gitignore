@@ -1,0 +1,5 @@
+contract/target/
+contract/Cargo.lock
+tests/target
+tests/Cargo.lock
+tests/wasm/contract.wasm
